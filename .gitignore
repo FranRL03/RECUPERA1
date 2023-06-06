@@ -1,4 +1,4 @@
 **/bin**
-.env
-.doc
-.docx
+*.env
+*.doc
+*.docx
